@@ -1,0 +1,18 @@
+curl 'https://collector-pxo1gdta7q.px-cloud.net/api/v2/collector' \
+  -H 'accept: */*' \
+  -H 'accept-language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'dnt: 1' \
+  -H 'origin: https://www.ifood.com.br' \
+  -H 'pragma: no-cache' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://www.ifood.com.br/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Microsoft Edge";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' \
+  --data-raw 'payload=aUkQRhAIEHd0c0N0XmcHflt3DxAeEFYQCEkQZwIKQmFgZ1V7egYPEAgQWkZGQkEIHR1FRUUcW1RdXVYcUV1fHFBAHUBXQUZTR0BTXEZXQRAeEGhgA1R1S3AAZ1sGDxAIAh4QeHZKV31fdGBkVXMPEAgQZVtcAQAQHhBRenN5VlhrY3ACaw8QCAIeEGBeQgp6c3MAVksGDxAICgsCHhB4SkFWemV4RXRxUQ8QCAEEAgIeEHRxRUd5Xnh1eUoCDxAIAwUFAAMFAAEFAAIBAB4QcHRFGXVZdwF9S1UPEAgDBQUAAwUAAQUAAgYDHhBXd1VxdlgGXnBYXQ8QCBAEU1MLAldWAh8DAVMAHwMDVAMfU1RUVh8FUFMKBlEBAFYDVwoQHhBzWgYGZXdWS38ABg8QCFxHXl4eEHZ0YwB3WVkGYmFnDxAIAh4QY2F3BWhFVn5/ZEUPEAhUU15BVx4QcGoDHX0Cc2ZRVV0PEAgQCgMHC1RRVgpXVgpQC1QCBAFUCwtWBwFRCgUBUAILBwVXA1QDBVBUCgYECwIHB1FWClQKAgUFBFAHAQYLUAEDCwhnB0JUWnUdYwtqVFRXUGBGfnhBU3VHRGhwV3FYeGpgVV9hWFlGVgF5U1FndUh1dWYGKdlhIdX8LenV9SAFAZgVxZUZLZlpfZXNRQ1xxBWN+d3pbUWFdcw8PCAMCAgIIS1RARmRWYEFGV1BDfQBQW0hEAGpKdVVbA15/B0VocBl4RVZh^SBX9meQpQY}QF8dUtjRQVBfQB2W0BTSwDNQKd0tbXGcKDawJnYGBqUGdhawoBUAZ/B2tEQHV1Zmd8bVkp2UwIdVDUtZGXFkYmtfWXd9RVBldQNdKHVZqYgpDcVRrXUVHZ0pafYXV1eF13fQFRcQQCfXhoanZ6UEpifGdZe31kUwsDYXsBfHFUf3AEV1B9WkBBcFl/WABRC1FYf2ZBQwEBWFAGQUdHcFp/BEV1YVpzB3Z0dwdCfWAHYFhmVnYZe0VbCgR4fwd9QFFgfmhQXXVEGVV3ZWF>DRcAtBYWtWWHEdHV0FR1V5C1dTZmgLRGZVYwNYWgd0Q`K1MDYlMBQH}NWAHoBWH5dVXBWeEh4BXVEV1gHfQUAAkGFUA2NfVEJ/KaH59c3ZrYEoGfgNdBXAAdFBiZXlkU3pRZGRVdEFYe15RYVF4X3EBSERURwFfYxldRlFYUGdnZlhcBHZhWGpxfgAEZmpqQlZxAgpoRHlURn5WQWsZVUhoZFN77WQJgWWhIeGZCXQVoXkZ4HQBwXWZkaGEdXlZRXkh0Y2V0WX1iQUpUZllxAHBbAXZFcVZ0XEplSFl0X2FjYEZDdAN3QHp8ClsAXgdHCl9kenRKUQpAeUZBBmFCUBlXVn0CfWp7rZH4CZgALBmdaAwYQT09v&appId=PXO1GDTa7Q&tag=DhI0E0h7J2cKHw==&uuid=6aa90ed0-13a2-11f1-affd-7ba84c32d1e8&ft=388&seq=0&en=NTA&bi=dgoMBiMxRCcwUmMjb1o/JXcvEUFnA0wkehgUS0xGTw92KUQ6MkNOMxhdcX13KAhfdTxJOF4OQGUfXlYYYjVSL2obUXNhDzArbC8QXjBLTHJ6GRcuSklMBHQlQGh/VAo=&pc=1788542698910121&sid=4544a6ee-13a2-11f1-ad30-b327f76f42f3&vid=44a3b886-1353-11f1-93c8-59c3048eeccc&cts=4544a934-13a2-11f1-ad30-b327f76f42f3&rsc=1'
