@@ -1,0 +1,9 @@
+{
+  "name": "px-node-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PX cookie generator via Node.js JSDOM bridge",
+  "dependencies": {
+    "jsdom": "^28.1.0"
+  }
+}

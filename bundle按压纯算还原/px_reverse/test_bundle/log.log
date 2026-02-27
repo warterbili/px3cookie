@@ -1,0 +1,421 @@
+﻿[PX-AUTO] 脚本已加载, 等待 PX 请求...
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] === Hook 安装开始 ===
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG] XHR hook 已安装
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG] fetch hook 已安装
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG] sendBeacon hook 已安装
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] === Hook 安装完成 ===
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] 如果长时间没有看到 [DEBUG-XHR] 或 [DEBUG-FETCH] 日志,
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] 说明 PX SDK 还未发送请求, 或使用了其他方式发送。
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] 请在 Network 面板查看是否有 POST 到 /assets/js/bundle 的请求。
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG] iframe appendChild hook 已安装
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] 就绪! 控制台命令:
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO]   __pxAutoState      — 主页面状态
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO]   __pxCaptchaState   — captcha iframe 状态
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO]   __pxBuildB3()      — 手动触发 B3 构建
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO]   __pxReset()        — 重置全部状态
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [IFRAME-DETECT] iframe 插入: id=none, src=about:blank
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [IFRAME] hook XHR: iframe#anon
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [IFRAME] XHR hook 安装完成
+main.min.js:2 
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG-XHR] open POST → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG-XHR] send bundle #1 → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG-XHR] body type=string, len=1765
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG-XHR] bundleCount=0
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] ═══ 捕获 B1 请求 (XHR) ═══
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO]   tag   = ZH4ePSIVDUlgcQ==
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO]   bi    = MkxIQmd1AGN0FidnKx57YTNrVQUjRw...
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO]   uuid  = 62b54c40-13f5-11f1-87fc-cf90de3e1013
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO]   vid   = 702d2965-13dd-11f1-87e1-ff930ff5cf76
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO]   appId = PXO1GDTa7Q
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO]   sid   = 5f502cd5-13f5-11f1-80bd-4d8118c1cfcf
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO]   所有参数: payload, appId, tag, uuid, ft, seq, en, bi, pc, sid, vid, cts, rsc
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG-XHR] loadend 事件触发, readyState=4, status=200
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG-XHR] 响应到达: status=200, readyState=4
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG-XHR] responseText len=1248
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG-XHR] responseText preview={"do":null,"ob":"Ozo7Ozs7dlV6cjl2OTk6djw+aG47PD8/ODtoPj9pMzlpODI7Mj5rb28+Pjo8az1rPz1rO2s5aGhsbjI8Mjh
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG-XHR] 响应 JSON keys: do, ob
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] ═══ 捕获 B1 响应 ═══
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO]   ob字段: Ozo7Ozs7dlV6cjl2OTk6djw+aG47PD... (len=1228)
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO]   do字段: NULL
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG-XHR] open POST → https://api.fstr.rocks/v1/event
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG-XHR] open POST → https://www.google-analytics.com/j/collect?v=1&_v=j102&a=15260287&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.ifood.com.br%2F
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG-FETCH] POST → https://www.google.com/ccm/collect?frm=0&ae=g&en=page_view&dr=www.bing.com&dl=https%3A%2F%2Fwww.ifood.com.br%2F&scrsrc=w
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [DEBUG-FETCH] POST → https://analytics.google.com/g/collect?v=2&tid=G-4X9FKLVLYC&gtm=45je62p1h1v9176703799za200zd9176703799&_p=1772208007296&
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [IFRAME-DETECT] iframe 插入: id=none, src=about:blank
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [IFRAME] hook XHR: iframe#anon
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:16 [PX-AUTO] [IFRAME] XHR hook 安装完成
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME-DETECT] iframe 插入: id=none, src=about:blank
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME] hook XHR: iframe#anon
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME] XHR hook 安装完成
+29The source list for the Content Security Policy directive 'script-src' contains an invalid source: ''blob:''. It will be ignored.
+2_app-8759a56d911cf8d5.js:3  Invalid event dimension type. Only boolean, number and string are allowed.
+(匿名) @ _app-8759a56d911cf8d5.js:3
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME-DETECT] iframe 插入: id=_hjSafeContext_7557876, src=about:blank
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME] hook XHR: iframe#_hjSafeContext_7557876
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME] XHR hook 安装完成
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-FETCH] POST → https://mpc-prod-25-s6uit34pua-wl.a.run.app/events?cee=no
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-FETCH] POST → https://analytics.google.com/g/collect?v=2&tid=G-23RPNJ8YWK&gtm=45je62p1v9126701976z8810437510za20gzb810437510zd81043751
+11Creating a worker from 'blob:<URL>' violates the following Content Security Policy directive: "script-src 'self' 'unsafe-eval' 'nonce-static12345' <URL> <URL> <URL> <URL> <URL> 'sha256-6Y3BWCmu5UkWbZSnp0Gw77+qEVX0LHiVxcWU38Xssko=' 'sha256-CN/ADnIp5tfG8VrtOf8QQQWYz+RtJKsxglWizFQ9xak=' 'sha256-wjKIJ+FAtdkIsk2O1HIXTkIsDVCkoXZo0NWUwu6irUM=' 'sha256-x4Qdhzxgfd96pB77qI3pNsfCI+ThPSMbR5UweCFOgTY=' 'sha256-YATHk2WG5d/lY4uQFcr8KNDZzvPXMCb4HtxHjlWOUPU=' 'sha256-3Kbq0HPkSliInv1tsWr27jEHafcqRF6H9trr9C44p70=' 'sha256-xvqtnks2S6U9Pfaf8vwatet+dC3LH11KRSmzXieuIYw=' 'sha256-XBhYmqxdvXa+zOlOFomuYIucgol+4QN5EOzVeUW+cVo=' 'sha256-gbl2KmZzGTyKYkAPoSFTg5SIUJYFaGqMI8gnNtth0oA=' 'blob:' https:". Note that 'worker-src' was not explicitly set, so 'script-src' is used as a fallback. The action has been blocked.
+_app-8759a56d911cf8d5.js:3  Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading
+(匿名) @ _app-8759a56d911cf8d5.js:3
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME-DETECT] iframe 插入: id=none, src=about:blank
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME] hook XHR: iframe#anon
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME] XHR hook 安装完成
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME-DETECT] iframe 插入: id=none, src=about:blank
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME] hook XHR: iframe#anon
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME] XHR hook 安装完成
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME-DETECT] iframe 插入: id=none, src=about:blank
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME] hook XHR: iframe#anon
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME] XHR hook 安装完成
+_app-8759a56d911cf8d5.js:3  
+_app-8759a56d911cf8d5.js:3 ()=>{}
+_app-8759a56d911cf8d5.js:3 Sat Feb 28 2026 00:00:07 GMT+0800 (中国标准时间)
+_app-8759a56d911cf8d5.js:3 <div>​</div>​
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME-DETECT] iframe 插入: id=none, src=about:blank
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME] hook XHR: iframe#anon
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME] XHR hook 安装完成
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://service2.icg-in.com/web/v4
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://api.fstr.rocks/v1/event
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] send bundle #2 → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] body type=string, len=16571
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] bundleCount=1
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] ═══ 检测到 B2 请求 (XHR) ═══
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   body len=16571
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://conn-check.icg-in.com/connectioncheck
+?st=banners&:2  Uncaught TypeError: Cannot set properties of undefined (setting 'PBA')
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] loadend 事件触发, readyState=4, status=200
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] 响应到达: status=200, readyState=4
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] responseText len=912
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] responseText preview={"do":null,"ob":"Ozo7Ozs7dlV6cjl2OTk6djs+PD1sOT08aG85PjhrOT4/az1rO29rPTg5PD5pMzNpOzNsbzpvP289PmgyPG4
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] 响应 JSON keys: do, ob
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] ═══ 捕获 B2 响应 ═══
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   ob字段: Ozo7Ozs7dlV6cjl2OTk6djs+PD1sOT... (len=892)
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   do字段: NULL
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] >>> B2 已捕获, 等待后续 ob 中的 PoW 挑战 (最多 15s) <<<
+framework-560765ab0625ba27.js:3  Failed parsing 'srcset' attribute value since it has an unknown descriptor.
+w @ framework-560765ab0625ba27.js:3
+framework-560765ab0625ba27.js:3  Dropped srcset candidate "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/Logo"
+w @ framework-560765ab0625ba27.js:3
+framework-560765ab0625ba27.js:3  Failed parsing 'srcset' attribute value since it has an unknown descriptor.
+w @ framework-560765ab0625ba27.js:3
+framework-560765ab0625ba27.js:3  Dropped srcset candidate "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/Logo"
+w @ framework-560765ab0625ba27.js:3
+framework-560765ab0625ba27.js:3  Failed parsing 'srcset' attribute value since it has an unknown descriptor.
+w @ framework-560765ab0625ba27.js:3
+framework-560765ab0625ba27.js:3  Dropped srcset candidate "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/Logo"
+w @ framework-560765ab0625ba27.js:3
+framework-560765ab0625ba27.js:3  Failed parsing 'srcset' attribute value since it has an unknown descriptor.
+w @ framework-560765ab0625ba27.js:3
+framework-560765ab0625ba27.js:3  Dropped srcset candidate "https://static.ifood-static.com.br/image/upload/t_thumbnail/logosgde/Logo"
+w @ framework-560765ab0625ba27.js:3
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://api.fstr.rocks/v1/event
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-FETCH] POST → https://www.google.com/ccm/collect?frm=0&en=page_view&dr=www.bing.com&dl=https%3A%2F%2Fwww.ifood.com.br%2F&scrsrc=www.go
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://api.fstr.rocks/v1/event
+_app-8759a56d911cf8d5.js:3 SW registered:  ServiceWorkerRegistration
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-FETCH] POST → https://mpc-prod-25-s6uit34pua-wl.a.run.app/events?cee=no
+2_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://rc.fstr.rocks/v2/remote-config/key
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://api.fstr.rocks/v1/event
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] send bundle #3 → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] body type=string, len=19335
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] bundleCount=2
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] loadend 事件触发, readyState=4, status=200
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] 响应到达: status=200, readyState=4
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] responseText len=940
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] responseText preview={"do":null,"ob":"Ozo7Ozs7dlV6cjl2OTk6dmk9PD8zOjJraTk6Ozs4Pj4zbms8M2w6Pz86aWkzbzI4bD5raztoaDw6Ozhsbmw
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] 响应 JSON keys: do, ob
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] ═══ 检测到后续 bundle ob #3 (len=920) ═══
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   segments: 2, state keys: px3, jf
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   handler[0]: type=set_cookie, key=101111, result={"type":"set_cookie","name":"_px3","value":"c765908ac30112449da69f0550cc9e82f4aa
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   handler[1]: type=control_flag, key=001001
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   ★ 更新 _px3: c765908ac30112449da69f0550cc9e82f4aa1bb6...
+key:1   Failed to load resource: the server responded with a status of 404 ()
+_app-8759a56d911cf8d5.js:3  Invalid event dimension type. Only boolean, number and string are allowed.
+(匿名) @ _app-8759a56d911cf8d5.js:3
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://api.fstr.rocks/v1/event
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://rc.fstr.rocks/v2/remote-config/sticky
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://api.fstr.rocks/v1/event
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] send bundle #4 → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] body type=string, len=6991
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] bundleCount=3
+rc.fstr.rocks/v2/remote-config/sticky:1   Failed to load resource: the server responded with a status of 404 ()
+_app-8759a56d911cf8d5.js:3  Invalid event dimension type. Only boolean, number and string are allowed.
+(匿名) @ _app-8759a56d911cf8d5.js:3
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://api.fstr.rocks/v1/event
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] loadend 事件触发, readyState=4, status=200
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] 响应到达: status=200, readyState=4
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] responseText len=32
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] responseText preview={"do":null,"ob":"Ojo7Ojo7dml/"}
+
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] 响应 JSON keys: do, ob
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG] bundle #4 ob太短 (12), 跳过
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] send bundle #5 → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] body type=string, len=13507
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] bundleCount=4
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] loadend 事件触发, readyState=4, status=200
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] 响应到达: status=200, readyState=4
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] responseText len=940
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] responseText preview={"do":null,"ob":"Ozo7Ozs7dlV6cjl2OTk6dmkzO2k/bGwzbz1oPTo4PW9vPG4zOThpPWk8bDo4OGk4aT87Pj9oMm87Pzg4Pj0
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] 响应 JSON keys: do, ob
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] ═══ 检测到后续 bundle ob #5 (len=920) ═══
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   segments: 2, state keys: px3, jf
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   handler[0]: type=set_cookie, key=101111, result={"type":"set_cookie","name":"_px3","value":"c91c5ff9e7b7027ee6d932c7c6f022c2c514
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   handler[1]: type=control_flag, key=001001
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   ★ 更新 _px3: c91c5ff9e7b7027ee6d932c7c6f022c2c5145b8e...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-FETCH] POST → https://analytics.google.com/g/collect?v=2&tid=G-4X9FKLVLYC&gtm=45je62p1h1v9176703799za200zd9176703799&_p=1772208007296&
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-FETCH] POST → https://analytics.google.com/g/collect?v=2&tid=G-23RPNJ8YWK&gtm=45je62p1v9126701976za20gzb810437510zd810437510&_p=177220
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://rc.fstr.rocks/v2/remote-config/key
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://api.fstr.rocks/v1/event
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://places.googleapis.com/$rpc/google.maps.places.v1.Places/AutocompletePlaces
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] send bundle #6 → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] body type=string, len=2851
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] bundleCount=5
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] loadend 事件触发, readyState=4, status=200
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] 响应到达: status=200, readyState=4
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] responseText len=32
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] responseText preview={"do":null,"ob":"Ojo7Ojo7dml/"}
+
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] 响应 JSON keys: do, ob
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG] bundle #6 ob太短 (12), 跳过
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://api.fstr.rocks/v1/event
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME-DETECT] iframe 插入: id=none, src=about:blank
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME] hook XHR: iframe#anon
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME] XHR hook 安装完成
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo
+2_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://rc.fstr.rocks/v2/remote-config/key
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] send bundle #7 → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] body type=string, len=36623
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] bundleCount=6
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] loadend 事件触发, readyState=4, status=200
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] 响应到达: status=200, readyState=4
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] responseText len=32
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] responseText preview={"do":null,"ob":"Ojo7Ojo7dml/"}
+
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] 响应 JSON keys: do, ob
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG] bundle #7 ob太短 (12), 跳过
+api.fstr.rocks/v1/session/482c65b0-7256-4954-ac2b-f05ce1fde6c8:1   Failed to load resource: the server responded with a status of 404 ()
+_app-8759a56d911cf8d5.js:3  Error occurred on request to Faster: https://api.fstr.rocks/v1/session/482c65b0-7256-4954-ac2b-f05ce1fde6c8 Error: Client error on request to Faster
+    at _app-8759a56d911cf8d5.js:3:3900317
+(匿名) @ _app-8759a56d911cf8d5.js:3
+_app-8759a56d911cf8d5.js:3  Failed to update Session: Error: Client error on request to Faster
+    at _app-8759a56d911cf8d5.js:3:3900317
+(匿名) @ _app-8759a56d911cf8d5.js:3
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://api.fstr.rocks/v1/event
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://rc.fstr.rocks/v2/remote-config/key
+2_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://api.fstr.rocks/v1/event
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] send bundle #8 → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] body type=string, len=36627
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] bundleCount=7
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://cw-marketplace.ifood.com.br/v2/bm/home?latitude=-23.4585022&longitude=-46.48904890000001&channel=IFOOD&size=20&a
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] loadend 事件触发, readyState=4, status=200
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] 响应到达: status=200, readyState=4
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] responseText len=32
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] responseText preview={"do":null,"ob":"Ojo7Ojo7dml/"}
+
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] 响应 JSON keys: do, ob
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG] bundle #8 ob太短 (12), 跳过
+home?latitude=-23.4585022&longitude=-46.48904890000001&channel=IFOOD&size=20&alias=HOME_FOOD_DELIVE…:1   Failed to load resource: the server responded with a status of 403 ()
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME-DETECT] iframe 插入: id=px-captcha-modal, src=about:blank
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME] hook XHR: iframe#px-captcha-modal
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME] XHR hook 安装完成
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-FETCH] POST → https://analytics.google.com/g/collect?v=2&tid=G-23RPNJ8YWK&gtm=45je62p1v9126701976za20gzb810437510zd810437510&_p=177220
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://cw-marketplace.ifood.com.br/v2/bm/home?latitude=-23.4585022&longitude=-46.48904890000001&channel=IFOOD&size=20&a
+main.min.js:2 
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME-XHR] open POST → https://collector-PXO1GDTa7Q.px-cloud.net/assets/js/bundle
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME-XHR] captcha bundle #1, body len=1861
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] ═══ [CAPTCHA] B1 请求 ═══
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   tag=ZH4ePSIVDUlgcQ==, uuid=62b54c40-13f5-11f1-87fc-cf90de3e1013
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   vid=702d2965-13dd-11f1-87e1-ff930ff5cf76, appId=PXO1GDTa7Q
+home?latitude=-23.4585022&longitude=-46.48904890000001&channel=IFOOD&size=20&alias=HOME_FOOD_DELIVE…:1   Failed to load resource: the server responded with a status of 403 ()
+2_app-8759a56d911cf8d5.js:3  Uncaught TypeError: Cannot read properties of undefined (reading 'forEach')
+    at hs.genAdds (_app-8759a56d911cf8d5.js:3:3407468)
+    at _app-8759a56d911cf8d5.js:3:3406405
+    at NodeList.forEach (<anonymous>)
+    at processMutation (_app-8759a56d911cf8d5.js:3:3406388)
+    at Array.forEach (<anonymous>)
+    at hs.processMutations (_app-8759a56d911cf8d5.js:3:3401305)
+    at _app-8759a56d911cf8d5.js:3:3409473
+    at MutationObserver.<anonymous> (_app-8759a56d911cf8d5.js:3:3408845)
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME-XHR] 响应 keys=do,ob, ob len=1900
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] ═══ [CAPTCHA] B1 响应 ═══
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   segments=14, state=cookies,px3,jf,to,eo,no,ro,appId,configNum,qa,powUuid,features
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   [0] cookie_config → {"type":"cookie_config","name":"cc","ttl":60,"value":"U2FtZV
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   [1] set_cookie → {"type":"set_cookie","name":"_px3","value":"66a23ac1e6668c40
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   [2] control_flag
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   [3] session_id
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   [4] timestamp
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   [5] app_id
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   [6] config_number → {"type":"config_number","value":5082}
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   [7] challenge_hash
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   [8] visual_challenge → {"type":"visual_challenge","startWidth":27,"startHeight":57,
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   ★ visualHash: 440be25de15f8e8a59b5...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   [9] pow_start → {"type":"pow","enabled":true,"suffix":"6d3481ab0c8ca29bc3cae
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   ★ PoW: 6d3481ab0c8ca29bc3ca... (1646ms)
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   [10] pow_challenge → {"type":"pow_challenge","uuid":"6b0c9ce0-13f5-11f1-b73d-b162
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   ★ captchaInstanceId: 6b0c9ce0-13f5-11f1-b73d-b16273d0e2f2
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   [11] cookie_config → {"type":"cookie_config","name":"rf","ttl":60,"value":"1"}
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   [12] cookie_config → {"type":"cookie_config","name":"fp","ttl":60,"value":"1"}
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   [13] feature_flags → {"type":"feature_flags","items":{"ccc":"0","ic":"0","nf":"0"
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME-XHR] open POST → https://collector-PXO1GDTa7Q.px-cloud.net/assets/js/bundle
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME-XHR] captcha bundle #2, body len=10887
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] ═══ [CAPTCHA] B2 请求 ═══
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://cw-marketplace.ifood.com.br/v2/bm/home?latitude=-23.4585022&longitude=-46.48904890000001&channel=IFOOD&size=20&a
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] >>> 超时 15s 未找到 PoW, 尝试无 PoW 构建 <<<
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] ═══ 开始构建 Bundle #3 ═══
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] Step 1: 解码 B1 ob...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B1 响应内容: {"do":null,"ob":"Ozo7Ozs7dlV6cjl2OTk6djw+aG47PD8/ODtoPj9pMzlpODI7Mj5rb28+Pjo8az1rPz1rO2s5aGhsbjI8MjhrOjkzPDw8bj4+OGs4OT49aWswa1xmO2dtfWBkSG16WFtaTm5SOmxhYUlZcmJrZUVnPz1TWUM/OH9SUj5iYjlea2Q4bH5ZQVJGWjl
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   GT/tag: ZH4ePSIVDUlgcQ==
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B1 segments数量: 9
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B1 state keys: cookies, px3, jf, to, eo, no, ro, appId, ao, qa, features
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B1 results数量: 9
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B1 handler[0]: type=cookie_config, key=100111, result={"type":"cookie_config","name":"cc","ttl":60,"value":"U2FtZVNpdGU9TGF4Ow=="}
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B1 handler[1]: type=set_cookie, key=101111, result={"type":"set_cookie","name":"_px3","value":"64bd165521b45c93c28184aee4406a7a57a1
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B1 handler[2]: type=control_flag, key=001001
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B1 handler[3]: type=session_id, key=100100
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B1 handler[4]: type=timestamp, key=01110011
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B1 handler[5]: type=app_id, key=111111
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B1 handler[6]: type=status_code, key=01110010
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B1 handler[7]: type=challenge_hash, key=101001
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B1 handler[8]: type=feature_flags, key=110111, result={"type":"feature_flags","items":{"ai":"0"}}
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   serverTs      = 1772208006593
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   challengeHash = 4eae2a292cf3c31e52fd936d0d7850f6525acfb134a2c945203b376dd415f322
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   powAnswer     = NULL
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   visualHash    = NULL
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   captchaInstId = NULL
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] Step 2: 解码 B2 ob...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B2 响应内容: {"do":null,"ob":"Ozo7Ozs7dlV6cjl2OTk6djs+PD1sOT08aG85PjhrOT4/az1rO29rPTg5PD5pMzNpOzNsbzpvP289PmgyPG48O2g8O2k5bzNoOm8/aGtuOjIwbX16fG5yaExaISVlPHBieXIyZTllflsheU5/TF1wQGs9aDo5R1k4Ozw4eU5teU08Xnpda0FsUFJ
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B2 segments数量: 2
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B2 state keys: px3, jf
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B2 results数量: 2
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B2 handler[0]: type=set_cookie, key=101111, result={"type":"set_cookie","name":"_px3","value":"1467f376be342a345a7a1ea72364c99c19fe
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B2 handler[1]: type=control_flag, key=001001
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   使用后续 ob 中的最新 _px3
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   px3Cookie = c91c5ff9e7b7027ee6d932c7c6f022c2c5145b8e... (len=651)
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   px3Token  = /iZMQI2y7TE78JwUniSS+kb+hLlNdq...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   serverTs2 = NULL
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [WARN] powAnswer 为空 (本次会话无 PoW 挑战), 继续构建...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] Step 3: nsTs=1772208023163
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] Step 4: 构建 B3 events...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   初始化 WASM + buildOpts...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   buildOpts 输入: {"uuid":"62b54c40-13f5-11f1-87fc-cf90de3e1013","vid":"702d2965-13dd-11f1-87e1-ff930ff5cf76","serverTs":"1772208006593","nsTs":1772208023163,"px3Cookie":"c91c5ff9e7b7027ee6d932c7c6f022c2c5145b8e...","px3Token":"/iZMQI2y7TE78JwUniSS+kb+hLlNdqkVk9gX9X4f...","challengeHash":"4eae2a292cf3c31e52fd936d0d7850f6525acfb1...","powAnswer":null,"visualHash":null,"captchaInstanceId":null,"blockedUrl":"https://cw-marketplace.ifood.com.br/v2/b...","challengeType":"mgb"}
+main.min.js:2  Executing inline script violates the following Content Security Policy directive 'script-src 'self' 'unsafe-eval' 'nonce-static12345' https://client.px-cloud.net http://client.px-cloud.net https://www.googletagmanager.com http://captcha.px-cdn.net https://www.google-analytics.com 'sha256-6Y3BWCmu5UkWbZSnp0Gw77+qEVX0LHiVxcWU38Xssko=' 'sha256-CN/ADnIp5tfG8VrtOf8QQQWYz+RtJKsxglWizFQ9xak=' 'sha256-wjKIJ+FAtdkIsk2O1HIXTkIsDVCkoXZo0NWUwu6irUM=' 'sha256-x4Qdhzxgfd96pB77qI3pNsfCI+ThPSMbR5UweCFOgTY=' 'sha256-YATHk2WG5d/lY4uQFcr8KNDZzvPXMCb4HtxHjlWOUPU=' 'sha256-3Kbq0HPkSliInv1tsWr27jEHafcqRF6H9trr9C44p70=' 'sha256-xvqtnks2S6U9Pfaf8vwatet+dC3LH11KRSmzXieuIYw=' 'sha256-XBhYmqxdvXa+zOlOFomuYIucgol+4QN5EOzVeUW+cVo=' 'sha256-gbl2KmZzGTyKYkAPoSFTg5SIUJYFaGqMI8gnNtth0oA=' 'blob:' https:'. Either the 'unsafe-inline' keyword, a hash ('sha256-RUklMsOSebn6K4GPsLODA4qEjh1XgLdWoFf6Ddk/fLs='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked.
+(匿名) @ main.min.js:2
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] WASM 初始化完成
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [WASM] 调用 a()...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [WASM-GET] key="_pxUuid", val="62b54c40-13f5-11f1-87fc-cf90de3e1013"
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [WASM] a() 返回: 1b6a71cf5221cf90de3e1013467a830bfedbc904791a3b3922290dd949c0
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [WASM] 无 powAnswer, 跳过 b()
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   buildOpts 成功!
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   wasmA = 1b6a71cf5221cf90de3e1013467a83...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   wasmB = NULL...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   myanmarData = 4YCJ4YGQ4YCa4YCG4YCf4YCe4YGQ4Y...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   生成 6 个事件
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   Event[0]: type=N2sCLXEHBBg=, fields=78
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   Event[1]: type=eEgNDj0nBzw=, fields=18
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   Event[2]: type=FCwhKlFEIRs=, fields=20
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   Event[3]: type=PX561, fields=95
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   Event[4]: type=TBR5Ugp6c2I=, fields=27
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   Event[5]: type=XQUoAxhoKzg=, fields=24
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] Step 5: 加密 payload...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   payloadTs = 1772208006593
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   payload = 32728 chars
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   pc = 0375110468101019
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   sid = 5f502cd5-13f5-11f1-80bd-4d8118c1cfcf... (len=62)
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] Step 6: 构建 POST body...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   POST body: 33504 bytes
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   payload    = aUkQRhAIEHwAQXF+and6cHBVDxAeEFYQCEkQZwIKX2Fga1h7AUEPEAgQCgZX...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   appId      = PXO1GDTa7Q
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   tag        = ZH4ePSIVDUlgcQ==
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   uuid       = 62b54c40-13f5-11f1-87fc-cf90de3e1013
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   ft         = 388
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   seq        = 2
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   en         = NTA
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   bi         = MkxIQmd1AGN0FidnKx57YTNrVQUjRwhgPlxRDwgOC0o0bQZ4dgUDd1wZNTkz...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   pc         = 0375110468101019
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   sid        = 5f502cd5-13f5-11f1-80bd-4d8118c1cfcf󠄱󠄷󠄷󠄲󠄲󠄰󠄸󠄰󠄰󠄶󠄵󠄹...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   vid        = 702d2965-13dd-11f1-87e1-ff930ff5cf76
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   cts        = 1772208023182
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   rsc        = 3
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   cs         = 4eae2a292cf3c31e52fd936d0d7850f6525acfb134a2c945203b376dd415...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] Step 6: 发送 B3 (XHR) → https://collector-PXO1GDTa7Q.px-cloud.net/api/v2/collector
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [IFRAME-XHR] 响应 keys=do,ob, ob len=948
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] ═══ [CAPTCHA] B2 响应 ═══
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   [0] set_cookie → {"type":"set_cookie","name":"_px3","value":"a87c0ffe5f398d27
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   [1] control_flag
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   ★ px3: a87c0ffe5f398d271ca8ccb5074d69672f2ea9c7...
+home?latitude=-23.4585022&longitude=-46.48904890000001&channel=IFOOD&size=20&alias=HOME_FOOD_DELIVE…:1   Failed to load resource: the server responded with a status of 403 ()
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-FETCH] POST → https://listener.logz.io:8071/?token=yxQSunsPlRFSQhlinuwFMXFuxPItsrwE
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] B3 响应 HTTP status: 200
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] B3 响应 body (968 chars):
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] {"do":null,"ob":"Ozo7Ozs7dlV6cjl2OTk6dmhrbz4/PTtuaToyMj09Oj8/OjkyaDM7OT05Pzg+bD08OGxvMzs9MmlsbG49bzhsODI9OT4/bzhrbDM4PTI5a28wU11GM0d+IWQ4S25tek8+JXg/a2lIXWxia0slT15fSUFmJT8zT35fJXI4S0dsYEN5aEhmeWNLRmVhJVhDbnwzO3hjZH5YezpbXVxNX087aXpGQkdleUs3NzA7Ojo6MElMMl4+PnlES05Le2EzPG87YVhZf1ozXVlCXF5JbzNYXEJFeUlmRV5TP1hJWH9uZHB6aWJiTFpCR0NzTCFYPj97R1lLX30zb0B+OUshUGlpOjNseDlCYmJlYEdyWDg9aTNDOk5tXERbUlhOZURiPT8zc0tJYG44OjpwX1heYG84JX9PQG9OWU56QTxkZ0FNWFxyXEdrWEQ6bjpiWHhhf2FtOltBOXM7M0dvWkA4P3xiXGxjcERIaU9Icno
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] ═══ B3 响应 JSON ═══
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] {
+  "do": null,
+  "ob": "Ozo7Ozs7dlV6cjl2OTk6dmhrbz4/PTtuaToyMj09Oj8/OjkyaDM7OT05Pzg+bD08OGxvMzs9MmlsbG49bzhsODI9OT4/bzhrbDM4PTI5a28wU11GM0d+IWQ4S25tek8+JXg/a2lIXWxia0slT15fSUFmJT8zT35fJXI4S0dsYEN5aEhmeWNLRmVhJVhDbnwzO3hjZH5YezpbXVxNX087aXpGQkdleUs3NzA7Ojo6MElMMl4+PnlES05Le2EzPG87YVhZf1ozXVlCXF5JbzNYXEJFeUlmRV5TP1hJWH9uZHB6aWJiTFpCR0NzTCFYPj97R1lLX30zb0B+OUshUGlpOjNseDlCYmJlYEdyWDg9aTNDOk5tXERbUlhOZURiPT8zc0tJYG44OjpwX1heYG84JX9PQG9OWU56QTxkZ0FNWFxyXEdrWEQ6bjpiWHhhf2FtOltBOXM7M0dvWkA4P3xiXGxjcERIaU9IcnoheXBfZU09UlptJWd9cG5NRXhvR2VlY3w8JW56OlxLSVt4TEFDa2FcXW1tfk1QTiVdeTx7YG1QUn1CTkdGfDkzZWw/YmRnOn1oXWQzSDJjPEFvQ2B+YUtCa3tEPnBhfztZS2tJcls7X0c8cHtmTDw6PU07YD1rfnI7ZmxnSEJfbCFibVNvWj1/XH16bT9/eV9BOlxOPk98O2Y9ZE57XH56OkUyS31BaTM4SCViRCU/eD4lb0RrJUtGRTNnf0ZOMjhQTTpYRng6W1xBWSVeO0h/PWllM1o+Y1lBZ3tISSFlc3p7PTtIR2I6a15wRE5Eek9tblhGf3xBfm5YQzI9UGE8Rmx7WTI7flhdUiVSQjxJRUwlSSVSTG8+Uzs8TDxZTEhTbWJ7RGVgfT9PbF5ibj1lYXp5Mk1mczI9XW5Db0ZwbmtnWztZdn54f292OTo6dHR0dDo6Ozo6O3Zpfw=="
+}
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] 解码 B3 ob 响应...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] B3 state: {
+  "px3": {
+    "name": "_px3",
+    "value": "bae4571dc08877055038b91373524f762fe9178cffd7e2f287345e2af92783ae:YWL9Mt+n2AdgpE4/r5acBWfhaA/ETUCKl/59EtU/x2AMfjIsbBlsiALok/RIdv91rintRq0QWVGUE1cpLHMosA==:1000:CF8T44sNADAqk96e1kRSuP9WSHVTCe9RVHOsClOTY5RCRudnzpchhFPHMIyF+R45qMSAUw9eJt3A+Zcc09fr3HhhojMxR27c9I0DgVNQXRDoNh759yACjd200zURTje2/uEJeDSDpK6nmKGRVxVMaRN0d0hRrkukg0QK3y19MePJ25vhVfizNBcEBxp+szUoG7XPg/mwzdGOreMooiv6/dp0VACQrFKIakVWggtGZD/Ws6qjgZXwHDMLv39of5hnm0wbWn9B8i6KeIjtkAHaqN4zku1SAaCxQ1UM6zqlF607G1j7atx1lfmBHUf+hgYeP7uVwpg5usUK0VD4Ev1l7nDqVtp0O8AwKc92B/hN/5r4/eNa/ALO9muLD82ZG0RLr0QVKS/T1Bu7co9P4iSKmqBC+oypq71BMh0aTzNDNpEgdRLuvKtdRI87Zk6LfqS81tRWX/XH6COF/C/XFe4Y16F6SFBYghqNojw5EfThd7okps8Gly87WdIeLzdamQ1S",
+    "ttl": 330,
+    "secure": true,
+    "maxAge": 300
+  },
+  "jf": "cu"
+}
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B3 handler[0]: set_cookie → {"type":"set_cookie","name":"_px3","value":"bae4571dc08877055038b91373524f762fe9178cffd7e2f287345e2a
+_app-8759a56d911cf8d5.js:3 [PX-AUTO]   B3 handler[1]: control_flag → ["cu"]
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] 新 _px3 cookie: bae4571dc08877055038b91373524f762fe9178c...
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] ═══ B3 流程结束 ═══
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-FETCH] POST → https://analytics.google.com/g/collect?v=2&tid=G-23RPNJ8YWK&gtm=45je62p1v9126701976za20gzb810437510zd810437510&_p=177220
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-FETCH] POST → https://listener.logz.io:8071/?token=yxQSunsPlRFSQhlinuwFMXFuxPItsrwE
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://rc.fstr.rocks/v2/remote-config/key
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://cw-marketplace.ifood.com.br/v2/bm/home?latitude=-23.4585022&longitude=-46.48904890000001&channel=IFOOD&size=20&a
+userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:1459   POST https://cw-marketplace.ifood.com.br/v2/bm/home?latitude=-23.4585022&longitude=-46.48904890000001&channel=IFOOD&size=20&alias=HOME_FOOD_DELIVERY_V3 403 (Forbidden)
+OrigXHR.send @ userscript.html?name=PX-Bundle3-Auto.user.js&id=d5d7c5e4-d1e9-49d5-9cd5-372df9355538:1459
+(匿名) @ _app-8759a56d911cf8d5.js:3
+(匿名) @ _app-8759a56d911cf8d5.js:3
+(匿名) @ _app-8759a56d911cf8d5.js:3
+e.exports @ _app-8759a56d911cf8d5.js:3
+e.exports @ _app-8759a56d911cf8d5.js:3
+Promise.then
+d.request @ _app-8759a56d911cf8d5.js:3
+(匿名) @ _app-8759a56d911cf8d5.js:3
+(匿名) @ _app-8759a56d911cf8d5.js:3
+value @ _app-8759a56d911cf8d5.js:3
+(匿名) @ _app-8759a56d911cf8d5.js:3
+s @ main-d2cf77afc98fa83d.js:3
+(匿名) @ main-d2cf77afc98fa83d.js:3
+P.forEach.e.<computed> @ main-d2cf77afc98fa83d.js:3
+d @ _app-8759a56d911cf8d5.js:3
+a @ _app-8759a56d911cf8d5.js:3
+(匿名) @ _app-8759a56d911cf8d5.js:3
+(匿名) @ _app-8759a56d911cf8d5.js:3
+value @ _app-8759a56d911cf8d5.js:3
+(匿名) @ _app-8759a56d911cf8d5.js:3
+s @ main-d2cf77afc98fa83d.js:3
+(匿名) @ main-d2cf77afc98fa83d.js:3
+P.forEach.e.<computed> @ main-d2cf77afc98fa83d.js:3
+me @ _app-8759a56d911cf8d5.js:3
+a @ _app-8759a56d911cf8d5.js:3
+(匿名) @ _app-8759a56d911cf8d5.js:3
+(匿名) @ _app-8759a56d911cf8d5.js:3
+_e @ _app-8759a56d911cf8d5.js:3
+(匿名) @ _app-8759a56d911cf8d5.js:3
+y @ _app-8759a56d911cf8d5.js:3
+e.fetchFn @ _app-8759a56d911cf8d5.js:3
+f @ _app-8759a56d911cf8d5.js:3
+(匿名) @ _app-8759a56d911cf8d5.js:3
+2_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://api.fstr.rocks/v1/event
+[Violation]Forced reflow while executing JavaScript took 66ms
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-XHR] open POST → https://api.fstr.rocks/v1/event
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-FETCH] POST → https://listener.logz.io:8071/?token=yxQSunsPlRFSQhlinuwFMXFuxPItsrwE
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-FETCH] POST → https://listener.logz.io:8071/?token=yxQSunsPlRFSQhlinuwFMXFuxPItsrwE
+_app-8759a56d911cf8d5.js:3 [PX-AUTO] [DEBUG-FETCH] POST → https://analytics.google.com/g/collect?v=2&tid=G-23RPNJ8YWK&gtm=45je62p1v9126701976za20gzb810437510zd810437510&_p=177220
